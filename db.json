@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "japraaaa",
+          "alamat": "kampek",
+          "umur": 24,
+          "nohp": "081233243445"
+        },
+        {
+          "id": 2,
+          "nama": "japra2",
+          "alamat": "kampek2",
+          "umur": 22,
+          "nohp": "081233243445"
+        },
+        {
+          "id": 3,
+          "nama": "japra3",
+          "alamat": "kampek3",
+          "umur": 25,
+          "nohp": "081233243445"
+        }
+      ]
+}
